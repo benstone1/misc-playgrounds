@@ -1,0 +1,23 @@
+# HTML Introduction
+
+# 1. Environment Setup
+
+# 2. HTML Introduction
+
+HTML stands for "Hyper Text Markup Language".  It's a special way of writing that tells web browsers how to display the text you want people to see on your website.
+
+HTML uses *tags* inside angle brackets to tell the browser how to display information (e.g <h1></h>).
+
+HTML is not a programming language.  You can't write code in HTML, only give instructions about how to display information.  You can, however, combine HTML and JavaScript to build websites that both show text, and allow for user interaction.
+
+In this unit, we'll learn how to build static (unchanging) websites with HTML and how to integrate JavaScript to make our websites interactable.
+
+# 3. Edit HTML in the wild
+
+
+
+# 4. HTML tags: headers and paragraphs
+
+# 5. HTML tags: links and images
+
+# 6. HTML tags: forms
